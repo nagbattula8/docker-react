@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Feature
+          Feature_new
         </a>
       </header>
     </div>
